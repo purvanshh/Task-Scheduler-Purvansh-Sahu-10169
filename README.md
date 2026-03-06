@@ -1,5 +1,11 @@
 # DAG Task Scheduler
 
+**Purvansh Sahu** | Roll No. 10169 | purvansh.23bcs10169@sst.scaler.com
+
+[GitHub Repository](https://github.com/purvanshh/Task-Scheduler-Purvansh-Sahu-10169)
+
+---
+
 A production-quality deterministic task scheduler that simulates DAG-based execution with dependency management, resource constraints, priority scheduling, failure handling, and retry logic.
 
 ## Motivation
