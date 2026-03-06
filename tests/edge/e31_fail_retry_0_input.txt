@@ -1,0 +1,6 @@
+TASK a 1
+FAIL a
+RETRY a 0
+RUN
+STATUS a
+END

@@ -1,0 +1,4 @@
+TASK A 1
+DEPEND A X
+RUN
+END

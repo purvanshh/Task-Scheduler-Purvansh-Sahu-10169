@@ -1,0 +1,5 @@
+TASK A 1
+RUN
+TASK B 1
+RUN
+END

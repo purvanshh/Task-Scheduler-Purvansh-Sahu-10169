@@ -1,0 +1,8 @@
+TASK a 2
+TASK b 1
+RESOURCE cpu 1
+REQUIRE a cpu 1
+REQUIRE b cpu 1
+DEPEND b a
+RUN
+END

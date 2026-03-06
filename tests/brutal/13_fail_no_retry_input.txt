@@ -1,0 +1,4 @@
+TASK A 2
+FAIL A
+RUN
+END

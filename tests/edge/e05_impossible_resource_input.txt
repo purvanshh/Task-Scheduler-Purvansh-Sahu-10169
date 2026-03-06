@@ -1,0 +1,6 @@
+TASK a 1
+RESOURCE cpu 1
+REQUIRE a cpu 2
+RUN
+STATUS a
+END

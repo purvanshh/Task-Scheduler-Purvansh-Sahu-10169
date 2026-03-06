@@ -1,0 +1,4 @@
+TASK A 1
+RETRY A 3
+RUN
+END

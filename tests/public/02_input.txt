@@ -1,0 +1,18 @@
+TASK alpha 3 10
+TASK beta 2 5
+TASK gamma 4 5
+TASK delta 1 0
+DEPEND delta alpha
+DEPEND delta beta
+RESOURCE cpu 2
+REQUIRE alpha cpu 1
+REQUIRE beta cpu 1
+REQUIRE gamma cpu 2
+REQUIRE delta cpu 1
+RUN
+STATUS alpha
+STATUS beta
+STATUS gamma
+STATUS delta
+ORDER
+END

@@ -1,0 +1,6 @@
+TASK a 1
+RUN
+STATUS a
+STATUS z
+STATUS nonexistent
+END

@@ -1,0 +1,5 @@
+STARTED A 0
+FAILED A 0 failed
+STARTED B 0
+FAILED B 0 failed
+FAILED C 0 dependency_failed

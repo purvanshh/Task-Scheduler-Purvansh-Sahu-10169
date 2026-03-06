@@ -1,0 +1,6 @@
+TASK a 1
+DEPEND a a
+RUN
+STATUS a
+ORDER
+END

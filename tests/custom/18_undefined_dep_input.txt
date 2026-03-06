@@ -1,0 +1,9 @@
+TASK a 1
+TASK b 1
+DEPEND a zzz
+DEPEND b nonexist
+RUN
+STATUS a
+STATUS b
+ORDER
+END

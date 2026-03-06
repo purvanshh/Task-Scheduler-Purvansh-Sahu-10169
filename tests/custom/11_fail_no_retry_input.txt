@@ -1,0 +1,8 @@
+TASK a 2
+TASK b 1
+DEPEND b a
+FAIL a
+RUN
+STATUS a
+STATUS b
+END

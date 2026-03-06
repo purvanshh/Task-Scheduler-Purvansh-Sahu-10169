@@ -1,0 +1,9 @@
+digraph scheduler {
+    rankdir=TB;
+    node [shape=box, style=filled, fillcolor="#e8f4f8"];
+    "a" [label="a\nd=3 p=0", fillcolor="#e8f4f8"];
+    "b" [label="b\nd=2 p=0", fillcolor="#e8f4f8"];
+    "c" [label="c\nd=1 p=0", fillcolor="#e8f4f8"];
+    "a" -> "b";
+    "b" -> "c";
+}

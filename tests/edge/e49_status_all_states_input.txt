@@ -1,0 +1,13 @@
+TASK a 1
+TASK b 1
+TASK c 1
+RESOURCE cpu 1
+REQUIRE a cpu 1
+REQUIRE c cpu 2
+FAIL b
+RUN
+STATUS a
+STATUS b
+STATUS c
+STATUS nonexistent
+END

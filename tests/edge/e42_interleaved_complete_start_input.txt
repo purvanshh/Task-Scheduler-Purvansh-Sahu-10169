@@ -1,0 +1,5 @@
+TASK a 2
+TASK b 2
+DEPEND b a
+RUN
+END

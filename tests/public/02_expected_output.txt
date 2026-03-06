@@ -1,0 +1,13 @@
+STARTED alpha 0
+STARTED beta 0
+COMPLETED beta 2
+COMPLETED alpha 3
+STARTED gamma 3
+COMPLETED gamma 7
+STARTED delta 7
+COMPLETED delta 8
+alpha: COMPLETED 0 3
+beta: COMPLETED 0 2
+gamma: COMPLETED 3 7
+delta: COMPLETED 7 8
+ORDER: alpha beta delta gamma

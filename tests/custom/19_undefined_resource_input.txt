@@ -1,0 +1,5 @@
+TASK a 1
+REQUIRE a fakecpu 5
+RUN
+STATUS a
+END
